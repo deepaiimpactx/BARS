@@ -1,34 +1,62 @@
-Custom License Version 1.0
+Source-Available License Version 1.1
+Preamble:
+This license establishes the terms and conditions under which the software ("Software") provided by Sanket Mishra, Rajkanwar Singh, and Aravindan V ("Licensor") may be used, modified, and shared. The primary intent of this license is to allow users to use the Software for non-commercial research and academic purposes, while protecting the Licensor’s rights and ensuring that any commercial use of the Software is subject to a separate agreement.
 
-1. **Grant of License**:
-   This license grants you, the licensee, a limited, non-exclusive, non-transferable, and revocable license to use the software ("Software") for private, personal use only.
+1. Definitions:
+"You" (or "Your"): Refers to the individual or legal entity that exercises permissions granted by this License. It includes, but is not limited to, individuals, companies, organizations, or institutions that use, modify, or distribute the Software.
+"Licensor": Refers to Sanket Mishra, Rajkanwar Singh, Aravindan V, and any other individuals or entities that may acquire ownership or control of the Software. The Licensor is the copyright holder of the Software.
+"Software": Refers to the software program or programs, including all associated source code, object code, executables, scripts, data, documentation, and any other materials distributed under this License.
+"Contribution": Any work of authorship, including original code or modifications, enhancements, and additions to the Software, submitted by You to the Licensor for inclusion in the Software. "Submitted" refers to any communication, electronic or otherwise, made to the Licensor that includes Contributions.
+"Derivative Work": Refers to any work that is based on (or derived from) the Software or any part thereof, such as a modification, enhancement, adaptation, or other alteration.
+"Commercial Purposes": Refers to the use of the Software, either directly or indirectly, in a manner that is intended for commercial advantage or monetary compensation, including but not limited to selling, sublicensing, renting, or leasing the Software.
+"Distribution": Refers to the act of making the Software, in its original or modified form, available to third parties, whether by selling, renting, leasing, lending, or providing it by any means, including electronic transmission.
 
-2. **Prohibited Uses**:
-   a. Commercial Use: You may not use the Software, in whole or in part, for any commercial purposes, including but not limited to, selling, licensing, renting, leasing, or otherwise exploiting the Software for financial gain.
-   b. Distribution: You may not distribute copies of the Software, modified or unmodified, to any third party, whether for free or for a fee.
-   c. Patent Use: You are not granted any rights to use any patents owned by the licensor, contributors, or any third parties, either directly or indirectly, except as expressly provided under this license.
+2. Grant of License:
+2.1 Non-Commercial Use: You are granted a limited, non-exclusive, non-transferable, non-sublicensable, and revocable license to use, reproduce, and modify the Software strictly for non-commercial academic and research purposes.
+2.2 Modifications and Derivative Works: You may create and use Derivative Works of the Software solely for non-commercial research purposes. Any such Derivative Works must include a prominent notice stating that they have been modified from the original Software and specifying the date of modification.
+2.3 Prohibited Commercial Use: Any use of the Software or its Derivative Works for Commercial Purposes requires a separate, express, written license from the Licensor. Without such a license, You are prohibited from selling, licensing, renting, leasing, or otherwise exploiting the Software for any financial gain.
 
-3. **No Warranty**:
-   The Software is provided "as is," without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and non-infringement. In no event shall the licensor or contributors be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the Software or the use or other dealings in the Software.
+3. Distribution of Software:
+3.1 No Distribution Without Consent: You are not permitted to distribute, publish, or share copies of the Software or Derivative Works with third parties without prior written consent from the Licensor. This includes distribution via online repositories, cloud platforms, or any other means.
+3.2 Internal Use: You may distribute copies of the Software within Your organization, provided that such use remains non-commercial and for internal research purposes only. All internal copies must retain all copyright, patent, trademark, and attribution notices as they appear in the original Software.
 
-4. **Trademark Use Limitation**:
-   This license does not grant you any rights to use the trademarks, service marks, trade names, logos, or other branding elements of the licensor or contributors.
+4. Contributions and Contributor License:
+4.1 Grant of Copyright License: By submitting a Contribution to the Licensor, You hereby grant the Licensor and recipients of the Software a perpetual, worldwide, non-exclusive, royalty-free, irrevocable copyright license to use, reproduce, prepare Derivative Works of, publicly display, publicly perform, sublicense, and distribute Your Contributions, in whole or in part.
+4.2 Grant of Patent License: You grant to the Licensor and recipients of the Software a perpetual, worldwide, non-exclusive, royalty-free, irrevocable patent license to make, use, offer to sell, sell, import, and otherwise transfer the Software and any Derivative Works that include Your Contributions, under Your patent rights that are necessarily infringed by Your Contribution(s) or by the combination of Your Contribution(s) with the Software.
+4.3 Representations and Warranties: You represent and warrant that each of Your Contributions is an original work of authorship and that You have the legal right to grant the licenses set forth in this section. If Your employer has rights to intellectual property that You create, You represent that You have received permission to make Contributions on behalf of Your employer, or that Your employer has executed a separate Corporate CLA with the Licensor.
+4.4 Notification: You agree to notify the Licensor of any facts or circumstances that would make the representations in this section inaccurate.
 
-5. **Liability Limitation**:
-   In no event shall the licensor or contributors be liable for any direct, indirect, incidental, special, exemplary, or consequential damages (including, but not limited to, procurement of substitute goods or services; loss of use, data, or profits; or business interruption) however caused and on any theory of liability, whether in contract, strict liability, or tort (including negligence or otherwise) arising in any way out of the use of this Software, even if advised of the possibility of such damage.
+5. Open Source Components:
+5.1 Third-Party Components: The Software may include components that are subject to third-party open-source licenses ("Third-Party Components"). You agree to comply with the terms of the licenses governing such Third-Party Components, which shall take precedence over this License to the extent of any conflict.
+5.2 No Warranty for Open Source Components: The Licensor provides no warranties, express or implied, and accepts no liability for Third-Party Components included in the Software.
 
-6. **Contact for Commercialization**:
-   For inquiries regarding the commercialization possibilities of the Software, please contact the owners.
+6. Intellectual Property Rights:
+6.1 Retention of Rights: The Licensor retains all rights, title, and interest in and to the Software, including all intellectual property rights therein. Except as expressly provided herein, no other licenses or rights are granted, whether by implication, estoppel, or otherwise.
+6.2 Trademark Use: This License does not grant You any rights to use the Licensor's trademarks, service marks, trade names, logos, or other branding features. Any such use requires prior written permission from the Licensor.
+6.3 Patent Rights: No rights to use any patents owned or controlled by the Licensor are granted under this License, except as specifically provided herein.
 
-7. **Open Source Components**:
-   All open source components of the Software remain open source under their respective licenses as imposed by their owners.
+7. Disclaimer of Warranties and Limitation of Liability:
+7.1 No Warranty: The Software is provided "AS IS," without any warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and non-infringement. The entire risk as to the quality and performance of the Software lies with You. Should the Software prove defective, You assume the cost of all necessary servicing, repair, or correction.
+7.2 Exclusion of Liability: In no event shall the Licensor, its contributors, or any affiliated parties be liable for any direct, indirect, incidental, special, exemplary, or consequential damages (including but not limited to procurement of substitute goods or services; loss of use, data, or profits; or business interruption) however caused and under any theory of liability, whether in contract, strict liability, or tort (including negligence or otherwise) arising in any way out of the use of this Software, even if advised of the possibility of such damage.
+7.3 Indemnification: You agree to indemnify, defend, and hold harmless the Licensor, its affiliates, and contributors from and against any claims, damages, liabilities, costs, and expenses (including reasonable attorneys' fees) arising out of or related to Your use of the Software, Your Contributions, or any breach of this License.
 
-8. **Jurisdiction**:
-   This license shall be governed by and construed in accordance with the laws of India, without regard to its conflict of law provisions.
+8. Termination:
+8.1 Termination by Licensor: The Licensor may terminate this License, in whole or in part, immediately upon written notice to You if You breach any term or condition of this License. Upon termination, You must cease all use of the Software and destroy all copies in Your possession or control.
+8.2 Termination for Patent Litigation: If You or any entity on Your behalf initiates patent litigation against the Licensor or any other entity alleging that the Software infringes a patent, any licenses granted under this License shall automatically terminate as of the date such litigation is filed.
+8.3 Surviving Provisions: The provisions concerning the limitation of liability, disclaimers of warranties, intellectual property rights, and indemnification shall survive any termination or expiration of this License.
 
-9. **Entire Agreement**:
-   This license constitutes the entire agreement between the parties concerning the subject matter hereof and supersedes all prior or contemporaneous agreements, understandings, negotiations, and discussions, whether oral or written, between the parties.
+9. Governing Law and Jurisdiction:
+9.1 Governing Law: This License shall be governed by and construed in accordance with the laws of India, without regard to its conflict of law provisions.
+9.2 Jurisdiction: Any disputes arising under or in connection with this License shall be subject to the exclusive jurisdiction of the courts located in Chandigarh, India.
+9.3 Arbitration: At the Licensor's sole discretion, any dispute, controversy, or claim arising out of or relating to this License shall be finally settled by binding arbitration administered by [Specify Arbitration Body] under its rules. The place of arbitration shall be [Specify City], India. The language of the arbitration shall be English.
 
-By using this Software, you acknowledge that you have read and understood this license and agree to be bound by its terms and conditions. If you do not agree with these terms, you are not permitted to use, modify, or distribute the Software.
+10. Miscellaneous:
+10.1 Entire Agreement: This License constitutes the entire agreement between the parties concerning the subject matter hereof and supersedes all prior agreements, negotiations, discussions, or understandings, whether written or oral.
+10.2 Amendments: Any amendments or modifications to this License must be in writing and signed by both parties.
+10.3 Severability: If any provision of this License is held to be invalid or unenforceable, that provision shall be limited or eliminated to the minimum extent necessary so that this License shall otherwise remain in full force and effect.
+10.4 Waiver: The failure of either party to enforce any right or provision of this License shall not constitute a waiver of future enforcement of that right or provision.
+
+11. Acceptance:
+By downloading, accessing, or using the Software, You acknowledge that You have read and understood this License and agree to be bound by its terms and conditions. If You do not agree with these terms, You must not use, modify, or distribute the Software.
 
 ©2024 Sanket Mishra, Rajkanwar Singh, Aravindan V
