@@ -1,7 +1,19 @@
-# BARS Architecture
-## Streamlined Data Pipeline for Real-Time Threat Detection and Model Inference
+# Streamlined Data Pipeline for Real-Time Threat Detection and Model Inference
+## BARS Architecture
 
-An intrusion detection project.
+## Abstract 
+Real-time threat detection in streaming data is crucial yet
+challenging due to varying data volumes and speeds. This paper presents
+an architecture designed to manage large-scale, high-speed data streams
+using deep learning and machine learning models. The system utilizes
+Apache Kafka for high-throughput data transfer and a publish-subscribe
+model to facilitate continuous threat detection. Various machine learning techniques, including XGBoost, Random Forest, and LightGBM, are
+evaluated to identify the best model for classification. The ExtraTrees
+model achieves exceptional performance with accuracy, precision, recall,
+and F1 score all reaching 99\% using the SensorNetGuard dataset within
+this architecture. The PyFlink framework, with its parallel processing
+capabilities, supports real-time training and adaptation of these models. The system calculates prediction metrics every 2,000 data points,
+ensuring efficient and accurate real-time threat detection.
 
 ## 🎒 Tech Stack
 
@@ -22,7 +34,7 @@ An intrusion detection project.
 Clone the project
 
 ```bash
-  git clone https://github.com/Rajkanwars15/BARS
+  git clone https://github.com/deepaiimpactx/BARS
 ```
 
 Go to the project directory
