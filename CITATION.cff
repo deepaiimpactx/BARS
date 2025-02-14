@@ -8,13 +8,6 @@ message: >-
   metadata from this file.
 type: software
 authors:
-  - given-names: Sanket
-    family-names: Mishra
-    email: sanketmishra@live.com
-    affiliation: >-
-      School of Computer Science and Engineering, VIT-AP
-      University, Amaravati, India
-    orcid: 'https://orcid.org/0000-0002-3193-8160'
   - given-names: Rajkanwar
     family-names: Singh
     email: rajkanwars15@outlook.com
@@ -22,6 +15,13 @@ authors:
       School of Computer Science and Engineering, VIT-AP
       University, Amaravati, India
     orcid: 'https://orcid.org/0009-0009-4267-7398'
+  - given-names: Sanket
+    family-names: Mishra
+    email: sanketmishra@live.com
+    affiliation: >-
+      School of Computer Science and Engineering, VIT-AP
+      University, Amaravati, India
+    orcid: 'https://orcid.org/0000-0002-3193-8160'
   - given-names: Aravindan
     family-names: V
     affiliation: >-
